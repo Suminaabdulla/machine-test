@@ -1,0 +1,16 @@
+{
+  "app_common": {
+    "name": "Machine Test",
+    "empty_text": "{{label}} cannot be empty!"
+  },
+  "json_input": {
+    "input_label": "Input the JSON representation of the Form",
+    "generate": "Generate",
+    "json_input": "Json Input",
+    "save_JSON_input_success_msg": "JSON input saved"
+  },
+  "form": {
+    "save": "Save",
+    "save_form_data_success_msg": "Data saved successfully"
+  }
+}
